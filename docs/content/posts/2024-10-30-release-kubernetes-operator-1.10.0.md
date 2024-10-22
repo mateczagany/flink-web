@@ -69,7 +69,7 @@ For more details, check the [updated documentation](https://nightlies.apache.org
 
 ## List of Contributors
 
-Angela Chen, Ferenc Csaky, Gyula Fora, Mate Czagany, Naresh Kumar Reddy Gaddam, 
-Roc Marshal, Rui Fan, Sam Barker, Yuepeng Pan, big face cat, chenyuzhi459, kartik-3513, 
-r-sidd, 阿洋, 
+Angela Chen, Ferenc Csaky, Gyula Fora, Mate Czagany, Matyas Orhidi, Naresh Kumar Reddy Gaddam,
+Roc Marshal, Rui Fan, Sam Barker, Yuepeng Pan, big face cat, chenyuzhi459, kartik-3513,
+r-sidd, 阿洋
 
